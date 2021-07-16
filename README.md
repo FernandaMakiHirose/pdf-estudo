@@ -1,4 +1,4 @@
-# PDFs desenvolvidos por mim sobre diversos assuntos
+# PDFs desenvolvidos por mim para estudo e conhecimento
 Basta clonar o repositório para ter acesso ao material. <br>
 
 Execute o comando pelo terminal dentro de um diretório:

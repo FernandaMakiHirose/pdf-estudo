@@ -4,7 +4,7 @@ Nesse repositório localizam-se PDFs que desenvolvi ao longo do tempo e PDFs que
 Basta clonar o repositório para ter acesso ao material. <br>
 
 Execute o comando pelo terminal dentro de um diretório:
->git clone https://github.com/FernandaMakiHirose/linux.git
+>git clone https://github.com/FernandaMakiHirose/pdf-estudo.git
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.

@@ -5,3 +5,6 @@ Basta clonar o repositório para ter acesso ao material. <br>
 
 Execute o comando pelo terminal dentro de um diretório:
 >git clone https://github.com/FernandaMakiHirose/pdf-estudo.git
+
+## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.

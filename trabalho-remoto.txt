@@ -66,3 +66,193 @@ Remote Tools Ferramentas especificamente curadas para a comunidade de trabalho r
 The Productivity Stack do Hive Várias ferramentas categorizadas em grupos e focadas em aumentar a sua produtividade The Productivity Stack | Hive
 Remote Tools Rising Stars Artigo da Remote How sobre ferramentas que estão ganhando notoriedade em 2020 Remote Tools Rising Stars — Best Tools For Remote Workers To Watch In 2020 | Remote-how
 Por último a Versus, um site inteiramente dedicado a você achar alternativas a uma ferramenta que você tem em mente que tenha a mesma funcionalidade e propósito. Versus: Find alternatives
+
+Para se comunicar bem:
+Permitir que todos consigam a informação necessária na hora necessária;
+Possibilitar que todas as pessoas da equipe saibam o que está acontecendo nos projetos diariamente e sem problemas;
+Dar espaço para que todos participem das discussões e decisões independentemente de onde ou que horário vão trabalhar.
+
+O que é comunicação Síncrona
+
+Comunicação síncrona é aquele tipo de comunicação que ocorre exatamente ao mesmo tempo. Isso quer dizer que as mensagens que são enviadas por uma pessoa são recebidas e são respondidas na mesma hora pela outra pessoa ou outras pessoas. Não existe “delay” ou tempo de demora na comunicação. Alguns exemplos desse tipo de comunicação são:
+
+Uma conversa presencial
+Uma ligação telefônica
+Ou até uma videoconferência
+Comunicação Síncrona e videoconferências
+
+A videoconferência é o tipo de comunicação síncrona mais utilizado quando se trabalha remotamente. Então vamos mostrar um passo a passo para conduzir suas videoconferências. Assim elas serão mais produtivas e você vai conseguir passar uma ótima impressão para quem está do outro lado.
+
+Como se preparar para uma videoconferência
+
+Primeiro, como se preparar para suas videoconferências.
+
+1. Teste a velocidade de conexão da sua internet
+
+Antes de uma reunião por videoconferência começar, é importante se certificar de que você conta com uma internet boa o suficiente para ter uma ligação com vídeo. Para isso você pode utilizar ferramentas online ou você pode buscar "velocidade de internet" no Google e utilizar o teste da própria plataforma. Esse teste do Google é ótimo porque além de te dar a velocidade da internet, ele já te diz se a sua internet vai conseguir lidar com videoconferências com vídeo em alta qualidade.
+
+2. Verifique se você tem uma boa Webcam
+
+É comum que algumas pessoas não se preocupem com esse ponto ou até desliguem a sua webcam ao participar de uma ligação virtual. Mas essa atitude pode ter um impacto negativo para as outras pessoas que participam da ligação e para você.
+
+Temos facilidade em saber se alguém está triste, alegre ou nervoso, sem a necessidade de se comunicar verbalmente. Só de olhar as suas expressões faciais, já conseguimos ler esse sentimento. É por esse motivo, que deixar a câmera ligada é um grande diferencial. O benefício a longo prazo é que, ao ver as expressões das outras pessoas, criamos uma conexão com elas.
+
+3. Arrume o seu background
+
+Uma videoconferência vai mostrar o seu espaço físico para as pessoas que estiverem trabalhando com você. Então, antes de uma videoconferência, devemos ver qual parte do nosso ambiente a câmera vai mostrar e deixar esse /fundo/ ou /background/ o mais limpo possível, pois um fundo desarrumado pode tirar atenção do que você está falando e levar a atenção ao que está acontecendo ali atrás.
+
+4. Vista uma roupa adequada à situação
+
+Sabemos que trabalhar de casa pode significar trabalhar em vestimentas mais confortáveis. Não existe problema nenhum até aí, mas a hora da videoconferência é uma hora de reunião. Então é aquela hora de vestir uma roupa arrumada pois, assim como o fundo desarrumado, a sua roupa não chamar mais atenção do que o que você está falando.
+
+5. Verifique sua posição em relação a fonte de luz
+
+Outra coisa que você pode fazer para melhorar a sua imagem é ficar de frente para uma fonte de luz, seja ela uma janela ou uma lâmpada. Assim, as pessoas do outro lado vão conseguir te ver bem. Pois, se você estiver em ambiente muito escuro, não vai adiantar nada você ter a melhor webcam do mundo ou deixar ela ligada, as pessoas não vão conseguir te ver mesmo assim.
+
+6. Desative as suas notificações
+
+Para finalizar os preparativos para sua videoconferência, desative as notificações do seu computador, celular, e outros aparelhos. Elas podem tirar a sua atenção e a atenção de quem estiver do outro lado. Seu celular pode ficar em modo avião e, de preferência, longe de você para não causar aquela tentação de abrir ele durante a reunião.
+
+Como agir durante uma videoconferência
+
+Terminadas as preparações, como agir durante a videoconferência?
+
+1. Esteja online 5 a 10 minutos antes
+
+O primeiro ponto é, no dia da sua videoconferência, confirme o horário e a ferramenta que ela vai acontecer no seu calendário e esteja disponível na sala virtual 5 a 10 minutos antes de ela começar.
+
+2. Deixe o microfone no mudo
+
+Uma prática para a comunicação funcionar melhor ainda é todos deixarem o microfone no mudo enquanto não estiverem falando. Desse jeito, o barulho ao fundo como cachorros latindo, carros passando ou até barulhos menores não atrapalham quem está falando no momento. Nesse caso, para que seja mais fácil dar respostas mais rápidas sem a necessidade de tirar o microfone do mudo, você pode usar alguns gestos como:
+
+Joinha para cima, para sinalizar que você “Concorda”
+Joinha para baixo, para sinalizar que você “Não concorda”
+Levantar a mão para pedir a palavra.
+3. Preste atenção na sua postura
+
+Visto tudo isso, percebemos o quanto a nossa linguagem corporal é importante nas videoconferências. Então, preste atenção na sua postura, ela vai dizer se você está atento, interessado e prestando atenção ao que está sendo falado ou se está distraído e desinteressado.
+
+4. Fale com intenção
+
+Em uma videoconferência estamos sempre sujeitos a tecnologia nos deixar na mão. Seja porque a sua internet caiu, a internet de alguém seu time caiu ou a ferramenta simplesmente travou. Então uma coisa que podemos fazer para minimizar isso é falar com intenção. Tente ser o mais direto possível e fale o seu principal ponto ou argumento primeiro para depois detalhar a sua fala. Dessa forma, mesmo se houver algum problema, a mensagem será passada.
+
+O que fazer depois de uma videoconferência
+
+E o que fazer depois de uma reunião por videoconferência? Essa é a hora de anotar e sintetizar os próximos passos e tudo que foi decidido ali.
+
+Depois disso, você pode colocar essas informações em uma ferramenta de documentação ou uma ferramenta de gerenciamento de tarefas onde todos do time possam acompanhar o progresso daquelas ações e decisões.
+
+Você também pode transformar essa comunicação síncrona em uma comunicação assíncrona, gravando a videoconferência e disponibilizando para o time.
+
+O que é comunicação assíncrona
+
+Já entendemos o que é comunicação síncrona, mas parte da comunicação do dia a dia em um projeto remoto não acontece pela comunicação síncrona, e sim pelo segundo tipo de comunicação que é a forma assíncrona.
+
+Essa é o tipo de comunicação que não ocorre exatamente ao mesmo tempo, ou não-simultânea. Isso quer dizer que a mensagem enviada por uma pessoa é recebida, fica registrada, e é respondida mais tarde pela outra ou outras pessoas. Alguns exemplos desse tipo de comunicação podem ser:
+
+Mandar um email;
+Conversar por qualquer ferramenta de chat;
+Ou falar em fóruns ou threads de discussão.
+Esse tipo de comunicação não é uma coisa específica do trabalho remoto, nós já convivemos com esse tipo de comunicação nas nossas vidas mesmo sem trabalhar remotamente. Com WhatsApp, Messenger, entre outras ferramentas de comunicação assíncrona, a ideia é que você deixe sua mensagem e a pessoa vai te responder quando ela visualizar a mensagem. Então, começamos a entender que a comunicação na internet é completamente diferente da comunicação por telefone.
+
+Boas práticas da comunicação assíncrona
+
+Para esse tipo de comunicação funcionar dentro da colaboração em projetos, precisamos seguir uma forma mais estruturada de passar a nossa mensagem.
+
+Por exemplo, quando se comunicar com alguém, é importante que você passe a sua mensagem de maneira que fique bem claro quais são os próximos passos para a pessoa que tem que responder.
+
+“Oi tudo bem?” talvez não seja suficiente, porque você não tem controle de quando a pessoa vai ver a mensagem e se você vai estar lá para dar o resto do contexto. É realmente melhor estruturar seu pensamento e seu texto e falar tudo de uma vez. Não é falta de educação é respeito ao tempo da pessoa e ao seu.
+
+Como se comunicar bem por texto
+
+E por causa da comunicação assíncrona, a comunicação escrita vai ocupar boa parte do seu dia de trabalho. Então aqui vão algumas dicas de como se expressar melhor dentro desse ambiente.
+
+1. Abra a mensagem com o seu ponto-chave.
+
+Ao escrever uma mensagem, pense claramente em qual é o argumento geral que você está tentando expressar e comece a sua mensagem com isso. Tente sempre fazer com que seu principal ponto seja sua frase de abertura ou o título de um tópico que você vai discorrer mais a seguir. Se quiser dar mais importância ainda a essa frase como ponto principal, use fonte em negrito.
+
+2. Não alongue o seu texto mais do que o necessário
+
+Não use mais palavras do que você precisa. Lembre-se de que usar mais palavras só para preencher o seu texto prejudica a sua mensagem e dificulta sua leitura. Preste atenção em palavras como "essencialmente, basicamente ou apenas" ou "realmente, muito ou extremamente" e se elas realmente estão adicionando valor ao seu texto ou só preenchendo espaço
+
+3. Faça um destaque dos principais pontos da sua mensagem
+
+Precisamos escrever de uma maneira que a informação seja entendida de forma completa e livre de interpretações, mas também temos que fazer isso sem exigir que as pessoas leiam textos enormes todo o tempo. Então, uma boa prática para reduzir a obrigatoriedade da leitura de um texto enorme é o chamado *“TL;DR” (Too long, didn’t read).*Essa prática consiste em fazer resumo em tópicos do texto, trazendo todos os pontos de destaque sobre a informação que está sendo passada. Dessa forma alguém apenas lendo os tópicos pode entender o contexto geral da mensagem.
+
+4. Evite, quando possível, siglas ou jargões.
+
+Acrônimos e jargões podem fazer com que seus colegas levem mais tempo para entender uma mensagem. Evite o uso pois é crucial desenvolver um entendimento compartilhado dos termos utilizados. Em equipes remotas, você pode ter pessoas de outros países e culturas, mas esse princípio também vale para se comunicar com alguém que não é da sua área. Então, tenha certeza que todos os envolvidos na conversa vão entender o termo específico que você está usando na sua mensagem senão use outra palavra.
+
+5. Foque as discussões em a decisões práticas
+
+É difícil tomar decisões importantes somente através de texto. A cada resposta a discussão pode ir se prolongando a ponto de fugir do foco, causando uma sensação de improdutividade. A solução aqui é buscar direcionar a discussão a soluções práticas transformando o que está sendo falado em decisões e em próximos passos acionáveis para cada um do time.
+
+6. Use outros meios para apoiar o significado da sua mensagem
+
+Um texto pode dar margem a diferentes interpretações e isso pode comprometer o sucesso do seu projeto remoto. Se for necessário, utilize imagens ou vídeos para complementar o sentido do que você está querendo passar.
+
+7. Cuidado com o WhatsApp e outras ferramentas de mensagem rápida
+
+WhatsApp é uma ferramenta ótima e que funciona super bem para uso pessoal e até para alguns casos profissionais muito específicos, mas não é legal que isso se misture com a comunicação do seu time remoto.
+
+É importante fazer a separação entre ferramentas de trabalho e ferramentas de lazer porque quando essas coisas estão muito misturadas fica difícil organizar nosso dia e ter foco em qualquer uma das duas. Então, esteja sempre de olho na ferramenta de comunicação e de gerenciamento de projetos combinadas com o seu time para ficar por dentro de tudo que está acontecendo.
+
+Por que é importante se fazer presente
+
+Outra dica muito importante para o trabalho remoto funcionar da melhor maneira é: Se faça presente no ambiente de trabalho estando remotamente. É claro que esse vai ser um ambiente de trabalho virtual, mas esse tipo de comportamento é muito importante para demonstrar seu engajamento com aquele projeto e para criar uma relação com o time que você está trabalhando.
+
+Isso se torna ainda mais importante com times que estão no momento de transição entre um time presencial e uma equipe remota, pois eles podem não ter as melhores práticas do trabalho remoto e esquecer de deixar quem está remoto fora do escritório por dentro de tudo que está acontecendo. Então tome essa responsabilidade para você, dê o exemplo para esse comportamento se espalhar. Vamos listar algumas dicas para te ajudar nesse processo.
+
+Dicas para se fazer presente remotamente
+
+1. Lembre-se de que seu escritório agora é na nuvem
+
+Lembra de quando falamos sobre o escritório virtual? Pois é, sua integração com seu time vai melhorar muito se você realmente tratar esse ambiente como trataria o escritório físico onde você encontrava seu time. Dê bom dia quando começar, avise quando for almoçar e puxe conversas com as pessoas. Assim as pessoas do seu time vão sentir que você realmente está lá com elas.
+
+2. Confirme que você está recebendo e lendo mensagens dos seus colegas
+
+Um dos lados positivos do trabalho remoto e da comunicação assíncrona é ter tempo para pensar antes de responder a uma mensagem. Porém, isso tem um lado negativo para quem mandou a mensagem. Então, não deixe seus colegas de equipe esperando uma resposta. Se você precisa de mais tempo para responder informe a eles que já viu e que vai responder assim que puder. Esse tipo de comportamento ajuda muito na criação de confiança dentro de um time.
+
+3. Preste atenção no seu "tom de voz"
+
+Quando você precisar transmitir o tom de uma mensagem em um ambiente digital, o há uma grande diferença entre "Ok" e "Ok!". É claro que você não precisa exagerar e inundar suas mensagens de pontos de exclamação, emojis e gifs. O que você precisa é entender que essas são ferramentas para tornar sua comunicação leve e amigável.
+
+Forneça atualizações regularmente sobre o que você está trabalhando
+Não precisa ser o tempo todo, mas o ideal é todos saberem qual é o seu foco ou a sua tarefa naquele momento. É preciso ser muito fácil para qualquer um do time falar no que você está trabalhando agora, sem precisar perguntar. Como eles não estão te vendo, a única forma deles saberem é se você comunicar.
+
+Não dependa do acaso para pedir ajuda
+Se você faz parte de um projeto remoto, você não pode contar com trombar no corredor ou alguém ir a sua mesa para contar como estão as coisas ou reportar problemas.
+
+Então, se você preso em alguma tarefa? Não sabe o que fazer agora? Ou está precisando de alguma coisa para fazer o seu trabalho que você não tem acesso? Fale, pergunte, comunique essas coisas ao seu time, só com esse tipo de proatividade é que as coisas vão se resolver.
+
+Aproveite videoconferências para se conectar
+Sugira ao seu time ter um momento no começo e no final das videoconferências para vocês poderem conversar sobre coisas não relacionadas ao trabalho. Mesmo que sejam só cinco minutos, esses momentos de check-in e check-out humanizam o contato virtual e dão o tempo necessário para que todos estejam prontos para o início e final da reunião.
+
+Seja empático, solidário e retribua.
+É fácil se sentir isolado e desconectado quando você trabalha remotamente, tornando ainda mais importante tomar a iniciativa de conhecer outras pessoas. Seja encorajador com seus colegas de equipe e não tenha medo de dizer frases como "ótimo trabalho" e "obrigado!" Aproveite todas as oportunidades possíveis para fazer seus colegas de time se sentirem melhor. Esses pequenos elogios sinceros podem fazer toda a diferença na hora de criar uma conexão.
+
+Dica Bônus: Seja consistente. Não adianta você seguir todas as dicas dessa lista mas só fazer elas uma vez. O que ganha no final é a consistência. Tente exercitar essas coisas até que elas virem hábitos. Faça todos os dias até você nem perceber mais que está fazendo. Mudar a lógica de trabalho e comunicação leva tempo, mas quando você menos perceber, ficou automático.
+
+Agora vamos indicar algumas ferramentas que podem ajudar a colocar tudo que você viu aqui em prática:
+
+Ferramentas para teste de internet:
+
+Fast
+Speedtest
+Teste do Google
+Ferramentas para Videoconferência:
+
+Zoom
+Whereby
+Meet
+Ferramentas para Chat:
+
+Slack
+RocketChat
+Teams
+Basecamp
+Ferramentas para ajudar a passar mensagens assíncronas:
+
+Quicktime
+Loom
+Annotate

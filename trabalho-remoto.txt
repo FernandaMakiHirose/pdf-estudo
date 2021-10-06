@@ -452,3 +452,116 @@ Caso 04
 Problema: líder ou gestor não respeita ou entende o processo de ramp up. Outro problema que pode acontecer já no início do projeto, é o líder ou gestor não entender o período de adaptação. É necessário que você passe por uma imersão nos processos do líder ou gestor mesmo que haja uma lista de pendências enorme. O que o ele pode acabar esquecendo.
 
 Solução: Recomendamos deixar bem claro para o líder ou gestor que é muito necessário esse momento de adaptação, até que você esteja efetivamente dentro do projeto. Sugerimos que você fique bem próximo do líder ou gestor nesse início para que ele perceba que você está ali aprendendo a cada dia, um passo de cada vez.
+
+Quando você entrar em um novo time provavelmente vai ter que usar a ferramenta de gerenciamento de projetos daquele time, mas vamos indicar algumas ferramentas aqui nesse vídeo para você já ir se familiarizando em como eles funcionam e até poder começar a fazer a sua organização pessoal:
+
+Trello
+Asana
+Todoist
+Things
+
+A criação de um espaço puramente dedicado ao trabalho vai ajudar a criar limites saudáveis entre sua vida pessoal e a sua vida profissional, principalmente se você trabalha de casa. Estabelecer uma área de trabalho dedicada ajuda a definir onde o trabalho começa e termina e isso é muito importante para o seu bem-estar geral. Além disso, criar esse local vai possibilitar que você faça um bom trabalho com menos distrações.
+
+Aqui estão alguns parâmetros a se considerar para criar um espaço de trabalho ergonômico e confortável:
+
+Luz natural: Se possível tenha uma fonte de luz natural no seu espaço pois estudos demonstraram que a exposição à luz natural durante o dia tem efeitos positivos em nossa saúde mental e física. Por outro lado, trabalhar em ambientes pouco iluminados, onde as telas são a principal fonte de luz, sobrecarrega os olhos. Isso pode levar a fadiga, dores de cabeça e visão turva. Uma última coisa para prestar atenção é, em um ambiente com luz natural, evite colocar o seu computador de costas para essa porta ou janela, pois isso vai fazer com que a luz cause muita reflexão no seu monitor.
+ 
+Monitor: Para maior conforto, posicione o seu monitor a uma distância de mais ou menos 45 a 50 cm da sua cabeça. Além disso, o nível dos olhos deve se alinhar com o terço superior da tela.
+ 
+Cadeira: Escolha uma cadeira que permita que você sente com as costas retas para que sua pélvis e região lombar estejam apoiadas durante todo o tempo. Isso é muito importante pois um estudo de ergonomia de 2003 descobriu que, os funcionários que receberam uma cadeira ergonômica, relataram menos sintomas negativos ao longo do dia e um aumento total de produtividade de 17,7%.
+ 
+Teclado: O teclado deve estar posicionado um pouco inclinado para baixo. De modo que, ao digitar, seus braços devem ser dobrados em um ângulo de 90 graus e os pulsos devem estar retos.
+ 
+Mouse: O mouse deve estar no mesmo plano do teclado ou ligeiramente à frente e mais distante do corpo.
+Esses são, na nossa opinião, os essenciais para montar o seu ambiente de trabalho. Mas não vamos parar por aqui, aqui vão alguns outros itens interessantes que você pode considerar na hora de montar seu espaço de trabalho.
+
+Luz amarela: Se você é daqueles que gosta se sente mais produtivo na parte da noite, considere trocar a luz branca por uma luz mais amarela. Isso vale tanto para o seu ambiente de trabalho quanto para a tela do seu computador, veja as configurações para entender se ele já tem algum modo noite ou se você tem que instalar algum aplicativo para te ajudar.
+ 
+Alto-falantes ou fones de qualidade: Ter uma música ambiente pode ajudá-lo a relaxar e se energizar. Também pode melhorar sua produtividade. De acordo com um estudo do departamento de musicoterapia da Universidade de Miami, os participantes do teste que ouviram música enquanto trabalhavam conseguiram concluir suas tarefas com qualidade e velocidade superiores aos do grupo de estudo sem músicas.
+ 
+Plantas: As plantas são mais do que apenas lindas decorações. Estudos mostram que estar perto das plantas faz bem à saúde - elas filtram o ar e sua presença é terapêutica. As plantas se iluminam e adicionam cor aos espaços internos estéreis. As plantas nos ajudam a gerenciar melhor o estresse e reorientar nossa energia, e os psicólogos descobriram que trazer alguma flora para um espaço de trabalho pode aumentar a produtividade em até 15%.
+
+Então, para ajudar você a ser mais produtivo, independentemente do número de horas que você trabalha, aqui vão alguns passos para você conseguir organizar seu dia a dia, definir prioridades e trabalhar melhor remotamente. Essas dicas também vão ajudar você a lidar com os desafios explicados no vídeo anterior
+
+1. Organize o seu dia antes dele começar
+
+O primeiro passo para trabalhar melhor acontece mesmo antes de você iniciar o dia. Ter uma rotina e tempos definidos para cada tarefa pode ajudar a aumentar o foco e reduzir muito a procrastinação. Por exemplo, se você sempre escreve de manhã e sempre responde e-mails à tarde, você tem bem menos decisões a serem tomadas quando você inicia seu dia de trabalho, o que permite dar foco ao que você está fazendo naquele momento.
+
+2. Deixe seu ambiente de trabalho limpo e organizado
+
+Você pode ter criado o melhor ambiente de trabalho possível, mas se ao início do seu dia mesa está coberta de pilhas de papel, post-its, cadernos empilhados e o café que você tomou hoje de manhã, vai ficar muito mais difícil de você conseguir se concentrar. Tudo na sua mesa vai ficar competindo pela sua atenção e foco. Então tire um tempo, no início ou no final do seu dia, para limpar e preparar sua área de trabalho.
+
+O mesmo vale para o seu desktop virtual. Se você não conseguir encontrar os arquivos ou aplicativos necessários, é só uma questão de tempo até você abrir o aplicativo Twitter, Facebook ou Instagram “sem querer” e perder 30 minutos de um dia produtivo. Mantenha abertas somente as pastas e os aplicativos diretamente relacionados ao trabalho. O resto pode ficar fechado para evitar a tentação.
+
+3. Faça combinados e defina regras com as pessoas que vivem com você
+
+Se você precisa fazer um trabalho concentrado, feche a porta do seu escritório. Isso sinaliza para outras pessoas ao seu redor que você está trabalhando. Se ainda assim não ficar claro, vale combinar esse sinal com todos que moram com você. Se você não estiver em um escritório ou se não tiver uma porta disponível para fechar, tente colocar uma placa na sua mesa indicando que você não deve ser incomodado naquele momento. Tudo isso pode ajudar que as pessoas a sua volta não sejam distrações em momentos de foco.
+
+4**. Use uma lista de tarefas ou um aplicativo de gerenciamento de atividades**
+
+Uma das melhores maneiras de aumentar a sua produtividade é eliminar a tentativa de ser multitarefa. Quando você se distrai da sua tarefa principal, estudos dizem que você normalmente leva de 10 a 23 minutos para retornar ao seu foco total. Para isso não acontecer, tente usar uma lista de tarefas para capturar todas as tarefas que você tem no dia e focar em uma tarefa de cada vez.
+
+Para fazer essa organização das suas tarefas, existem muitas soluções digitais. Você pode usar desde a mais simples como os lembretes da Apple e do Google como pode utilizar aplicativos mais robustos em gerenciamento de projetos. Escolha o que se adequar melhor as suas preferências e hábitos. Porém, o que se mantem é, não importa qual aplicativo você escolher, quando começar o seu dia de trabalho escreva suas tarefas em ordem de prioridade e trabalhe em apenas uma de cada vez.
+
+5. Concentre-se em uma coisa de cada vez
+
+Ser Multitarefa realmente é um mito. Atuar dessa forma, literalmente, é capaz de drenar as reservas de energia do cérebro. Neurocientistas afirmam que essas mudanças usam a glicose oxigenada no cérebro, consumindo o mesmo “combustível” necessário para se concentrar em uma tarefa e é por isso que ficamos tão cansados. Mesmo se você pensa que é uma exceção, a realidade é que você está desperdiçando energia e atenção quando muda de uma coisa para outra.
+
+6. Desligue as suas notificações
+
+Se você tem de todos os lados popups, sons de alerta e celular vibrando, eles vão roubar a sua atenção. Para resolver isso, tanto o Windows como o MacOS têm opções para silenciar as notificações por um determinado período de tempo, e, se você está propenso a entrar no seu e-mail ou no Slack toda vez que a notificação é exibida na tela, você pode desligar essas notificações para que elas nem sejam exibidas.
+
+7. Faça o download de um bloqueador de distração
+
+Essas ferramentas estão disponíveis para ajudá-lo a manter o foco, bloqueando sites específicos por um período de tempo. Assim, mesmo que você caia na tentação, eles vão bloquear seu acesso a esses sites.
+
+Esses bloqueadores de distração existem como extensões para navegadores ou ferramentas para todo o seu computador. Você pode encontrar até mesmo soluções que combinam o bloqueio de sites controle de tempo e produtividade. O importante aqui é nunca deixe que a tecnologia atrapalhe sua produtividade. Use ela para te ajudar a se concentrar.
+
+8**. Use um sistema de foco e intervalo**
+
+Você pode tentar ficar focado o dia inteiro, sem parar, mas a verdade é que seu cérebro precisa de pausas. Agora, se você pode controlar quando você faz essas pausas, elas não contam como distrações.
+
+Uma maneira de estruturar seu tempo é usar a Técnica Pomodoro. Essa técnica usa um cronometro para dividir o tempo de trabalho em intervalos. Tradicionalmente são 25 minutos de duração focados na tarefa, separados por intervalos curtos de 5 minutos. Utilizando esta técnica você dá estrutura ao seu tempo e tem a oportunidade de acompanhar as redes sociais e mensagens nos seus pequenos intervalos.
+
+Outra forma de estrutura que você pode seguir é a regra de 3 minutos. A cada hora, dedique três minutos para cuidar de você. Entenda o que funciona melhor para sua produtividade, o importante de tirar daqui é alternar momentos de foco e de pausa para o seu cérebro.
+
+9. Defina um horário para terminar o seu dia de trabalho
+
+Se você trabalha remotamente, isso não significa que você precisa trabalhar o tempo todo. Trate seu trabalho como faria em um escritório. Defina seu horário de trabalho e cumpra-o. Desconecte-se de tudo que for relacionado ao trabalho depois disso. Passe algum tempo com sua família, leia um livro, jogue um videogame, escreva um diário. Você pode inclusive definir um modo "Não perturbe" no telefone a partir das 20h até às 9h. Se você encerrar a jornada de trabalho em um determinado horário, trabalhará com mais eficiência ao longo do dia.
+
+A Lei de Parkinson afirma que o trabalho se expande para se ajustar à quantidade de tempo alocada a ele. Por exemplo, se você tiver 2 dias para concluir uma tarefa, levará 2 dias para concluir. Se você der apenas 2 horas para concluir a mesma tarefa, levará 2 horas. Você pode usar a Lei de Parkinson para aumentar sua produtividade. Saber que você deve concluir seu trabalho até as 18h ajudará a concluir mais trabalhos em menos tempo. Terminar o trabalho em um horário definido também oferece a chance de relaxar e recarregar, uma parte essencial da produtividade a longo prazo.
+
+10. Termine o seu dia de forma positiva
+
+É difícil se sentir bem com o trabalho quando você tem um dia menos produtivo. Felizmente, existem maneiras de terminar seu trabalho de forma positiva mesmo que você não tenha conseguido atingir tudo que queria. Perdoe-se, e você não realizou tudo o que se propôs a fazer, não se importe com isso. Praticar autocompaixão ao procrastinar pode ajudá-lo a superar a procrastinação no futuro. Ao invés disso, mostre gratidão. Expressar gratidão é uma das maneiras mais rápidas de melhorar seu humor e sentimentos de bem-estar. Entre em contato com um colega de trabalho no final do dia para agradecer. Como um bônus adicional, provavelmente também alegrará o dia deles.
+
+O dia de trabalho de 8 horas confunde ocupado e produtivo, esperamos que seguindo essas dicas você possa aproveitar muito melhor as suas horas de trabalho e fazer com que elas funcionem para você e não você para elas.
+
+Agora que sabemos dos desafios e dos riscos à saúde que acompanham um estilo de vida remoto e não saudável, podemos começar a nos preparar para que esse tipo de situação não acontece. Aqui estão algumas dicas de saúde sobre como praticar o autocuidado ao trabalhar remotamente:
+
+Saiba quando fazer uma pausa
+Isso vale tanto para uma pausa durante o seu dia de trabalho, como já falamos no vídeo anterior, como uma pausa de alguns dias, tirando férias ou um final de semana prolongado.
+
+Tenha uma rotina alimentar.
+Comer bem é o seu combustível e ter flexibilidade de horário e local de trabalho significa que você pode controlar muito melhor o que está comendo e que horas está comendo. Esta é uma ótima oportunidade para você ter saúde! Fazer sua comida em casa uma excelente maneira de manter-se saudável, além de economizar algum dinheiro.
+
+Estabelecer uma boa rotina alimentar é realmente importante. Seu corpo precisa estar abastecido para alimentar sua mente. Porque um dos erros que cometemos podendo controlar o horário que queremos almoçar ou lanchar é: ser sugado pelo nosso trabalho e deixar o dia inteiro passar sem comer.
+
+Quando você está em um escritório, almoçar fora é a memória muscular. Isso muda quando você está em casa. Esteja atento para que esse hábito do escritório se mantenha quando você trabalha fora dele e garanta que você não está pulando nenhuma refeição.
+
+Inclua (pelo menos um pouco) de exercício no seu dia a dia.
+Corpo saudável ajuda a manter a mente saudável e você com mais energia. Ficar parado em casa durante a maior parte do tempo é uma maneira rápida de ficar sedentário e doente. Inclua um exercício que te de prazer na sua rotina, vale até criar um evento no calendário e deixar um tempo separado só para isso.
+
+Se você não tem muito tempo sobrando, uma dica aqui é: faça treinamentos intervalado de alta intensidade, ou também conhecidos como HIT. Como esses treinos geralmente levam de 5 a 10 minutos e não requerem equipamento especial, é fácil você arranjar um tempo para um treino de alta intensidade. Assim, você pode ter todos os benefícios do exercício sem precisar ajustar algo novo à sua programação.
+
+Último lembrete sobre esse assunto, não esqueça de levantar da cadeira de dar uma esticada nas suas pernas e braços a cada 90 minutos, beleza?
+
+Arranje tempo para ver os outros seres humanos
+Essa é uma das, se não a coisa, mais importante a fazer para sua saúde mental. A maior preocupação de todos em trabalhar em casa é a solidão. A melhor maneira de combater isso é, você adivinhou, certificando-se de estar com outros humanos. Se você tem colegas que moram perto, convide-os para trabalhar com você!
+
+As interrupções após o trabalho são um pouco difíceis quando você está em casa. Então você precisa ser diligente em planejar, sair e ver seus amigos! Fazer planos para ser social é fundamental para o seu bem-estar. Se você é realmente remoto e não está perto de ninguém, organize um evento online. Seja social! Se você é realmente muito remoto, acho que você só quer ficar sozinho e isso também é ótimo.
+
+Conecte-se com a natureza
+De acordo com um artigo no The New York Times chamado: How Walking in Nature Changes the Brain, uma caminhada no parque pode acalmar a mente e, no processo, alterar o funcionamento de nossos cérebros de maneira a melhorar nossa saúde mental. Hoje em dia, a maioria de nós vive em cidades e passa muito menos tempo em espaços verdes e verdes do que as pessoas faziam várias gerações atrás. Os moradores da cidade têm um risco maior de ansiedade, depressão e outras doenças mentais do que as pessoas que vivem fora dos centros urbanos.
+
+Praia, floresta, parque ou jardim, qualquer um desses vale, encontre a conexão com a natureza que te faz sentir melhor. Você não vai se arrepender.

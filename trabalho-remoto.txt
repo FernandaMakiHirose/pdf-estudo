@@ -247,3 +247,208 @@ Ferramentas para ajudar a passar mensagens assíncronas:
 Quicktime
 Loom
 Annotate
+
+1. Faça perguntas importantes para entender o projeto
+
+Algumas delas são, por exemplo: Qual é o modelo de negócio por trás desse produto? Em qual contexto esse projeto se insere? Por qual momento o produto está passando agora? Quais objetivos vou ajudar a atingir com esse projeto? Como posso ajudar, com o que vou fazer todos os dias, a atingir esses objetivos?
+
+Ouça, faça perguntas, aprenda e absorva todas as informações que você tiver acesso sobre o produto, o projeto e dinâmica de trabalho do time que você está.
+
+Uma vez que você começar a colocar a mão na massa, será mais difícil ter esse tempo de reconhecimento do terreno de novo. Então aproveite esse primeiro momento para se familiarizar com o produto, os clientes, as pessoas, a indústria e sua história. Faça quantas perguntas você puder e tome notas.
+
+Outra coisa que vale lembrar, se você está remoto, o restante do time pode estar se habituando com esse modelo e não ter tanta percepção da sua presença por não estarem acostumados ainda. Então é sempre melhor você tomar a iniciativa de pedir informações que precisa para trabalhar, do que esperar que alguém vá até você te ajudar ou oferecer. Isso não só reforça a sua presença como demonstra proatividade e comprometimento.
+
+2. Faça a configuração das ferramentas do projeto
+
+Entendendo os objetivos, agora você vai precisar entender quais são as ferramentas utilizadas por aquele time. Você precisa fazer a instalação e a configuração de cada uma. Isso significa conseguir os acessos necessários a tudo que você precisa para executar o projeto, além de aprender a utilizar cada uma, se for o caso.
+
+Nesse ponto, uma dica importante, em algumas empresas e projetos é comum que a liberação desses acessos demore um pouco por vários motivos internos daquela empresa. Porém, isso não isso não é motivo para você ficar parado.
+
+Você pode sempre acionar o seu time ou líder, dizendo o quanto aqueles acessos são fundamentais. Também fale com o seu time sinalizando qualquer dificuldade ou ajuda que precisar.
+
+3. Faça a configuração dos arquivos necessários para o projeto
+
+Com as ferramentas prontas, agora você precisa ter acesso a todos os arquivos daquele projeto. Sejam eles arquivos com materiais de apoio ou o que já foi produzido até aquele momento.
+
+Descubra como eles vão ser disponibilizados para você: Links? Serviços na nuvem como Dropbox ou Google Drive? Ou por email? Pergunte, vá atrás, tenha certeza que você tem tudo que você precisa e que você entendeu todos os arquivos produzidos até aquele momento.
+
+4. Entenda as boas práticas de desenvolvimento e design
+
+Agora é a hora de entender como aquele time trabalha:
+
+Quais são os recursos, padrões e processos já existentes naquele time?
+Eles possuem diretrizes de como as coisas deveriam funcionar?
+Existe algum padrão de codificação, framework, design system ou style guide a ser seguido?
+Quais são eles e quais são as regras que eles devem respeitar?
+Você está familiarizado com essas técnicas e processos?
+Sabe como cada um funciona e onde se inserir?
+Essa é a hora de pesquisar e tirar dúvidas para o trabalho fluir depois.
+
+5. Entenda as boas práticas de gerenciamento de projeto
+
+Além das técnicas e processos, todo time tem uma forma de se organizar e de trabalhar em conjunto: Quais são os processos e cerimônias já existentes naquele time?
+
+Entenda como cada uma funciona, qual a sua periodicidade e o que você tem que levar preparado para cada encontro. Outra dica é já marcar os eventos recorrentes no calendário para não esquecer.
+
+Existe algum lugar onde as tarefas e objetivos são acompanhados? Com que frequência você tem que atualizar essas ferramentas? Tire todas essas dúvidas para que a sua forma de trabalho possa se integrar com a forma de trabalho do seu novo time.
+
+6. Entenda as expectativas em relação ao projeto
+
+Talvez uma das partes mais importantes é entender qual é o seu papel e como proceder em alguns tipos de situação.
+
+Existe um prazo para o que você está fazendo? Em que momento o projeto está? Estão em momento de ideação e discussões de arquiteturas ou já em estão em produção e sustentação do produto e já na correção de bugs? Quais são os gargalos?
+
+E quando você terminar as suas tarefas? O seu time ou líder prefere que execute uma lista de pendências com velocidade ou pense em soluções mais otimizadas?
+
+As respostas à essas perguntas podem variar bastante dependendo do contexto do projeto ou do time. Por isso é sempre muito importante você identificar e confirmar as expectativas que o seu líder ou seu time têm para você.
+
+Se, ao final da sua primeira semana, você tiver conseguido fazer tudo isso você está em um bom caminho para seguir o resto do projeto.
+
+Para finalizar, vale lembrar que é importante balancear todo esse trabalho de preparação com entregas de valor reais para o seu time.
+
+Ficou abstrato? Aqui vai um exemplo de como fazer isso na prática. Você pode direcionar toda a sua configuração, estudo e entendimento para completar uma tarefa específica da lista de pendências do projeto.
+
+Assim você vai estudar os padrões, diretrizes, código, modelo de negócio, repositório, recursos, regras de negócio, etc, focado dentro do contexto da tarefa que você vai fazer e entregar.
+
+Esse foco reduz o escopo do estudo como um todo e faz com que você consiga ir até o final do processo, não só estudando e fazendo a configuração, mas sobrando espaço para aplicar este estudo já com mão na massa para entregas de valor.
+
+Fique tranquilo, com esse passo a passo e organizando o seu tempo em blocos focados em cada coisa, você não vai ter problema nenhum em fazer os dois e começar o projeto com o pé direito.
+
+Um passo importante para qualquer início de projeto é definir como vai ser o seu dia a dia naquele projeto. Pois, algumas pequenas mudanças na forma que organizamos o nosso dia, podem ser a diferença entre ter um dia mais produtivo levando uma vida muito mais equilibrada e perder o controle das expectativas e das entregas.
+
+1. Planeje o seu dia antes dele começar
+
+Essa é a primeira coisa que você tem que fazer. Definir uma expectativa para você mesmo de como seu dia vai ser. Liste quais as tarefas que você quer fazer e porque elas são importantes. Esse planejamento do que você quer fazer pode ser feito no mesmo dia pela manhã ou na noite do dia anterior.
+
+Independente de quando você fizer, o mais importante é, tire um tempo e fique focado somente nisso. O seu cérebro trabalha de uma forma diferente quando está planejando e quando está executando.
+
+Faça uma lista com tudo o que tem para fazer naquele dia, veja quais são as prioridades, organize as tarefas na ordem que você pretende fazê-las e determine mais ou menos quanto tempo você acha que vai demorar para cada item. Assim, é possível encaixar intervalos de descanso durante o dia, mas ao mesmo tempo não ficar ocioso.
+
+Vale também listar o que você não quer fazer e o que são distrações como redes sociais, emails, ou até mais uma reunião. Também o que não é tão urgente e pode ficar para o dia seguinte de trabalho.
+
+2. Esteja de olho na ferramenta onde seu time está organizando suas tarefas
+
+Muitas vezes você vai ter que usar a ferramentas do projeto do seu cliente para gerir as tarefas. Sejam macro tarefas como itens de uma lista de pendências ou mesmo itens e informações mais micro.
+
+É bem possível que você vai não ter flexibilidade para mudar a ferramenta ou até mesmo para nomear as tarefas. Então você precisa entender esse sistema utilizado pelo time e como conviver com isso. Seja transpondo seu “sistema de trabalho pessoal” para dentro da ferramenta usada no projeto ou criando pontos de controle para atualizar as ferramentas do projeto.
+
+Por exemplo, conheço pessoas que utilizam caderno e caneta para gerir suas principais prioridades do dia e semana, mas elas refletem em coisas que ele mantém atualizadas em outras ferramentas dos seus projetos. Teste como casar as duas coisas, mas sempre mantendo seu time atualizado sobre o que você está trabalhando naquele momento.
+
+3. Organize seu tempo, atenção e energia durante o dia
+
+O próximo ponto é sobre como dividir e aproveitar esse dia da melhor maneira. Se você tem dificuldade para focar ou tem muitas distrações no seu ambiente de trabalho, você pode estudar e testar técnicas para gerir melhor o próprio tempo, tarefas e prioridades. O mais importante aqui é testar e ver o que funciona para você.
+
+Dentro de tantas coisas para fazer, podemos achar que fazendo várias coisas ao mesmo tempo vamos ser mais produtivos. Porém, ser multitarefa é ter a ilusão de produtividade. Trabalhando assim gastamos muito tempo trocando de uma tarefa para outra o tempo todo e acabamos perdendo mais tempo do que ganhando.
+
+Criando blocos de tempo para cada tipo de atividade específica, você vai poder ter dedicação total a uma tarefa por vez e ser muito mais produtivo em cada atividade individual. Por exemplo, se percebeu que precisa estudar a documentação de uma nova API, separe um pequeno bloco de tempo específico para isso, comece e termine, em vez de estudar a documentação ao mesmo tempo em que se alterna em checar e responder mensagens ou marcar reuniões.
+
+4. Equilibre tempo dedicado ao estudo com tempo dedicado à prática
+
+Todo novo desafio exige que a gente gaste um tempo atualizando nossos conhecimentos e práticas. Então, dentro do seu planejamento você também pode incluir momentos de estudo e pesquisa. Porém, é importante que esses estudos sejam focados em encontrar soluções para os problemas encontrados no projeto e que sejam equilibrados com a aplicação desses conhecimentos da prática. Porque só assim vamos saber se estamos no caminho certo.
+
+Aqui também entra outro ponto que é, se você encontrar dificuldades técnicas, elementos desconhecidos da tecnologia ou até mesmo fazer o que quer em uma certa ferramenta, você pode e deve investigar sozinho primeiro, mas também é necessário desenvolver uma sensibilidade sobre quanto tempo investir nesses estudos e pesquisas frente ao momento do projeto. Porque toda demora em entregar a sua tarefa atual impacta nas tarefas de outros colegas de time, e consequentemente, impacta no projeto como um todo.
+
+É muito comum vermos profissionais que não pedem ajuda. Passam dias dizendo que está tudo OK, mas na verdade estão com problemas e tentando sair com soluções sozinhos. O que não é bom, pois, como falamos antes, isso impacta drasticamente nas entregas e no time de projeto. Então, em situações como essa, não tenha medo de pedir ajuda. Assim, muitas vezes, as coisas podem ser resolvidas muito mais rapidamente.
+
+É claro que esse é um ponto delicado pois a dinâmica dos times e nível de aceitação do que é “perguntar demais ou de menos” varia bastante. Então temos que ir testando e aprendendo como cada time funciona quando entramos em um novo projeto.
+
+5. Organize o seu calendário com base nas cerimónias do seu time
+
+Converse com a equipe e organize horários e reuniões periódicas para tirar dúvidas e resolver questões. Essa é uma maneira de garantir que todos estarão online quando realmente precisam estar e sem atrapalhar a rotina de ninguém.
+
+Além disso, entenda quais são as reuniões periódicas que já existem no projeto que você está entrando e inclua essas reuniões tudo que você tem que fazer para se preparar para elas junto com seu planejamento diário.
+
+Aqui também é legal entender os combinados já existentes naquele time. Por exemplo, se o time possui um processo estruturado para avisar de ausências, se existe algum lugar indicando disponibilidades para videoconferências, ou existe algum sinal de não perturbe. Aprenda esses combinados e siga eles. Isso vai ajudar a você se programar e saber quando pode contar com a ajuda de outra pessoa do time.
+
+Escopo aberto x escopo fechado
+Outra questão a ser discutida quando falamos de gerenciamento de projetos é a diferença entre escopo fechado e escopo aberto. Principalmente porque trabalhar com escopo fechado tende a não se encaixar dentro do desenvolvimento de produtos digitais.
+
+Fabricação x Digital
+O motivo pelo qual muitas pessoas tentam fechar um escopo de software é por entender o processo de fazer um software como o processo de manufatura e então trazer o mesmo paradigma. O problema é que, na prática, as coisas não são feitas do mesmo jeito.
+
+Boa parte do processo de manufatura é um processo de replicação, por exemplo, você planeja toda a forma de uma caneta, materiais, mecanismos e depois só reproduz o plano para fazer 1000 canetas.
+
+Enquanto isso, criar um software é, em sua maior parte, um processo de descoberta. Quando você começa um software você não sabe o que vai sair no final. As etapas são completamente diferentes. Por exemplo, um software não tem processo de replicação e distribuição.
+
+Quando você descobre como fazer um, você pode facilmente distribuir aquilo para 1000 ou 10000 pessoas sem precisar produzir outros. O que acontece com produtos digitais é que nós passamos muito mais tempo descobrindo o que fazer e como fazer do que distribuindo.
+
+Por que então o processo de software é pensado como o de fabricação?
+O que acontece é que, no início de um projeto, o escopo, muitas vezes, vem definido antes do projeto começar. Esse escopo é o que provavelmente o cliente acredita que precisa fazer para atingir os objetivos do produto ou do projeto.
+
+Acontece que, como o processo de fazer software é um processo de descoberta. No meio do caminho podemos perceber que algumas coisas que achávamos que eram importantes para atingir os objetivos não são tão importantes assim. Também podemos descobrir que outras que nem sabíamos que existiam são super importantes. No final das contas, o que mais importa são os objetivos.
+
+A questão é que, quando fechamos o escopo do projeto muito cedo, isso faz com que se gaste tempo e dinheiro em funcionalidades que não vão ser usadas. Só porque de início, nos comprometemos a fazer aquelas funcionalidades.
+
+Como funciona um projeto de software
+Em um bom projeto de software, o escopo muda. Temos que estar em constante comunicação com o nosso cliente e time de projeto e entender quais são os seus objetivos com aquele software para então entender como fazer as melhores mudanças.
+
+Esse tipo de pensamento é importante de ser colocado desde o início. No começo de um projeto temos que assumir que não sabemos que tipo de funcionalidade vai nos ajudar a atingir os objetivos.
+
+Temos que mudar a ideia de escopo fechado para um escopo negociável. Algo que esteja sempre mudando para se alinhar com os objetivos definidos e com as descobertas que foram feitas ao longo do projeto.
+
+A melhor forma de trabalhar para conseguir isso é a forma iterativa e incremental. Porque desse jeito você descobre, implementa, descobre mais e implementa mais. Então seu escopo vai mudando com base em coisas sendo colocadas na prática e em aprendizados reais.
+
+Como esse tipo de mentalidade se aplica no dia a dia de projeto?
+
+1. Não faça longas estimativas
+
+Sabemos que no início de um novo projeto é difícil medir a complexidade de algumas coisas, mas é um exercício que precisamos fazer e melhorar sempre para não prometer entregas que não podemos cumprir.
+
+Uma das formas de não cometer esse erro é não fazer longas estimativas e sim sempre alinhar com seu time o que está fazendo e como está fazendo.
+
+E se por acaso alguém te perguntar, quanto tempo vai demorar para fazer a parte X do projeto?
+
+A verdade é que ninguém consegue responder essa pergunta. Pois, pense comigo no exercício de estimativa a seguir. Por exemplo: construir uma página de fale conosco. Várias pessoas já fizeram e é algo relativamente simples.
+
+Quanto tempo você acha que demoraria para implementar? Não tem resposta errada. Pensou? Quais foram os campos que você pensou? Provavelmente dois ou três, nome, contato e mensagem, certo?
+
+Agora vamos fazer um segundo exercício. O que acontece quando o usuário clica no enviar? E se eu quiser integrar esse formulário com uma busca de CEPs para autocompletar o endereço? E se, além disso, eu quiser adicionar uma confirmação de dados nos campos para ter certeza que tudo está sendo preenchido da forma certa? Quanto tempo você acha que demoraria essa segunda versão?
+
+Agora imagina se o que está na sua cabeça é a versão um. Porém que está na cabeça do time e do cliente que fizeram a pergunta em relação a estimativa é a versão dois. Se isso não for alinhado, pode virar um grande problema. E também quer dizer que se todo o escopo for tão simples quanto um fale conosco podemos dizer que as melhores estimativas podem variar talvez em até 4 vezes.
+
+2. Clarifique o escopo das suas tarefas
+
+Se você não tem certeza qual o escopo de uma tarefa, tire essa dúvida com seu time. Entenda quem vai fazer o que e se o que você está fazendo está de acordo com o combinado.
+
+3. Deixe explícito e combinado a definição de pronto
+
+Outra coisa muito importante é deixar bem claro junto ao time e seu cliente qual é a definição de "pronto" para suas entregas. Significa que algo já está no ar e disponível para os usuários utilizarem? Significa que algo está pronto para ser colocado no ar? Ou significa que algo está pronto para revisão? Esse é um combinado muito importante de ser feito.
+
+4. Trabalhe de forma iterativa e incremental
+
+Já falamos essa anteriormente, mas só para recapitular. Seguindo a forma de trabalhar iterativa e incremental, tente ao máximo não trazer complexidade demais quando não é necessário. Foque em entregas que demonstrem, na prática, o núcleo de valor daquela funcionalidade ou design. Com isso pronto, entregue e validado, depois você pode trabalhar em melhoramentos.
+
+Entregando com agilidade, você vai conseguir coletar feedbacks reais, ver o que você fez em funcionamento e partir para o próximo ciclo de iteração. Isso é trabalhar com escopo priorizado.
+
+Classes de problemas
+
+Para ficar mais fácil identificar os sinais de aparecimento desses problemas durante o projeto, dividimos eles em algumas classes de problemas tem características similares:
+
+Problemas com definição de objetivos e próximos passos de projeto.
+Problemas com definição de resultados e do que é pronto.
+Problemas com gerenciamento de expectativas.
+Problemas com comunicação e acompanhamento do trabalho.
+Problemas com o legado do que aconteceu antes de iniciar aquele projeto.
+Cases reais e como foram resolvidos
+
+Para todos esses problemas ficarem mais palpáveis, trouxemos quatro casos reais. Desse jeito você vai conseguir entender com mais detalhes como essas situações podem surgir, se desenvolver e como você pode agir de modo a contornar.
+
+Caso 01
+Problema: Falta de canais de comunicação e senso de time. Já trabalhamos com empresas que não podiam colocar pessoas novas no seu principal canal de comunicação. Isso quase sempre dá problemas. Se você não estiver no principal canal de comunicação, pode perder coisas como reuniões importantes, decisões e até um pouco o contato com o gestor do projeto.
+
+Solução: Se não é possível estar no canal principal da empresa, sugira a criação de algum outro canal, até vale ser em uma ferramenta gratuita, com todos os envolvidos naquele projeto. Um argumento é que trabalhos remotos requerem canais de comunicação muito bem estabelecidos e utilizados. Isso facilita a criação de uma sensação de time real.
+
+Caso 02
+Problema: Demandas de várias fontes diferentes. Muitas vezes, pode existir mais de uma fonte demandante de tarefas. Isso acontece quando existem várias partes interessadas naquele projeto ou quando a equipe é mais desorganizada. Nesse caso, se você tentar fazer tudo sem redefinir as prioridades, essas demandas podem se acumular e ocupar mais tempo do que o disponível. E aí, você não vai conseguir atender expectativa nenhuma.
+
+Solução: Para contornar esse problema, a sugestão é que você se organize com alguma ferramenta de Kankan, como, por exemplo, o Trello ou a ferramenta que seu time utilizar. Com todas as demandas detalhadas na ferramenta, você pode comunicar a todos os responsáveis, juntos ou não, que você está vendo várias prioridades e que você tem que ter alguma orientação sobre qual colocar o seu foco primeiro. Assim, você devolve a essa responsabilidade para os demandantes e mantém todo mundo na mesma página.
+
+Caso 03
+Problema: Não entendimento do que é para ser feito. É possível que você comece um novo ciclo sem ter todas as informações necessárias para fazer uma boa entrega. O que acontece nesse caso é que muitas pessoas já se adiantam, puxam a tarefa e já vão trabalhando sem tirar nenhuma dúvida com os responsáveis. Isso não é aconselhado porque pode gerar vários desencontros. Por exemplo, no meio do trabalho você pode descobrir que o que você está desenvolvendo conflita com regras de negócio. O trabalho do gestor de projeto, é fazer corretamente a definição da demanda com a área de negócios ou engenharia. Uma tarefa não vai conseguir estar totalmente completa se ficar dúvidas sobre o resultado esperado.
+
+Solução: Se o líder ou gestor for operar dessa forma, recomendamos que você converse com essa pessoa responsável e exponha os riscos. Sugira que ele ou ela faça uma delimitação melhor, mesmo que pequena, junto com o time ou até individualmente.
+
+Caso 04
+Problema: líder ou gestor não respeita ou entende o processo de ramp up. Outro problema que pode acontecer já no início do projeto, é o líder ou gestor não entender o período de adaptação. É necessário que você passe por uma imersão nos processos do líder ou gestor mesmo que haja uma lista de pendências enorme. O que o ele pode acabar esquecendo.
+
+Solução: Recomendamos deixar bem claro para o líder ou gestor que é muito necessário esse momento de adaptação, até que você esteja efetivamente dentro do projeto. Sugerimos que você fique bem próximo do líder ou gestor nesse início para que ele perceba que você está ali aprendendo a cada dia, um passo de cada vez.

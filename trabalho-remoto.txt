@@ -565,3 +565,21 @@ Conecte-se com a natureza
 De acordo com um artigo no The New York Times chamado: How Walking in Nature Changes the Brain, uma caminhada no parque pode acalmar a mente e, no processo, alterar o funcionamento de nossos cérebros de maneira a melhorar nossa saúde mental. Hoje em dia, a maioria de nós vive em cidades e passa muito menos tempo em espaços verdes e verdes do que as pessoas faziam várias gerações atrás. Os moradores da cidade têm um risco maior de ansiedade, depressão e outras doenças mentais do que as pessoas que vivem fora dos centros urbanos.
 
 Praia, floresta, parque ou jardim, qualquer um desses vale, encontre a conexão com a natureza que te faz sentir melhor. Você não vai se arrepender.
+
+Como não poderia faltar, aqui vão algumas indicações de ferramentas para você colocar em prática o que falamos nesse curso:
+
+Ferramentas para desligar notificações:
+
+muzzleapp
+Parallels
+FERRAMENTAS PARA BLOQUEAR DISTRAÇÕES
+
+Freedom App
+SelfControl
+FocusMe
+StayFocusd
+FERRAMENTAS PARA GERENCIAMENTO DE TEMPO
+
+Focus Booster
+Pomodoneapp
+Pomotodo

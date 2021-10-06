@@ -1,0 +1,68 @@
+Então, afinal, o que é ter um pensamento Remote First?
+
+Se você faz parte de um time ou um projeto executado remotamente você precisa contribuir para criar e manter um ambiente equilibrado e produtivo.
+Isso é um pouco mais difícil quando seu time ainda tem um escritório físico. Pois isso cria uma situação onde existem pessoas que trabalham do escritório e pessoas que trabalham fora do escritório.
+Para o ambiente se manter equilibrado e produtivo, os que estão no escritório e os que não estão no escritório tem que ter condições iguais de participar das discussões e decisões e executar o seu trabalho.
+Pode parecer um pequeno detalhe, mas que se não for considerado, o trabalho remoto vai ir por água abaixo. Porque nenhuma das ferramentas, processos ou técnicas que vamos compartilhar vai funcionar se a gente não colocar todo mundo em condições iguais.
+E aí que entra o conceito de Remote First, que é sempre pensar em como funcionaria toda e qualquer experiência dentro do ambiente de trabalho para o ambiente virtual primeiro. É se comportar de modo a tratar o ambiente virtual como o substitutivo do escritório físico. É o seu escritório virtual onde tudo relacionado ao seu trabalho vai acontecer.
+É desse jeito que a gente realmente começa a deixar nossas dependências para trás e temos a liberdade de trabalhar realmente de onde quisermos.
+E como isso se traduz no dia a dia? Vamos a alguns passos que vão ajudar a garantir que você está contribuindo para manter esse ambiente realmente equilibrado.
+Primeiro é que você e todos os membros da sua equipe precisam conseguir acessar a informação sobre o andamento do projeto a todo momento. Isso quer dizer que, independentemente de onde você estiver, você precisa:
+
+Saber o que está acontecendo em um determinado projeto,
+Saber quem está responsável pelo o que,
+Saber qual a prioridade de cada tarefa,
+E saber o que está sendo feito naquele dia por cada pessoa
+Se você sentir dificuldade de saber qualquer uma dessas coisas, converse com seu time, converse com seu líder e diga que essa falta de acesso à informação prejudica muito a sua produtividade.
+
+Também contribua para o seu time documentando o seu trabalho e mantendo todas as ferramentas atualizadas com o que você está trabalhando naquele momento.
+O segundo passo é que todas as pessoas tem que ter oportunidade igual de participar das discussões e decisões do projeto mesmo que elas não estejam fisicamente no mesmo local, ou até mesmo trabalhando no mesmo horário.
+Isso por que não existe coisa pior para alguém que não está no mesmo ambiente físico que o resto do time do que ouvir:
+“A gente estava discutindo isso aqui no escritório e chegamos a conclusão que…”
+Ouvindo isso, você se sente totalmente excluído, como se sua opinião não importasse e isso acaba totalmente com a motivação de se engajar naquele projeto. Esse é outro argumento que você pode levar para o seu time ou seu líder se você se encontrar nessa situação.
+E, melhor do que isso, você pode já levar a solução. Porque a gente tem sim como consertar isso, sem punir as pessoas por conversarem no escritório.
+É assim, uma ideia pode até surgir no escritório, mas se tem alguém daquele projeto que não está lá, antes de chegar a qualquer conclusão, a gente tem que:
+
+Abrir a discussão online;
+Dar todo o contexto do que já foi conversado;
+E colocar todo mundo na mesma página.
+Então a conversa pode continuar dali, envolvendo qualquer pessoa que queira participar, independentemente de onde ela esteja.
+
+Com esses exemplos você pode ver que a diretriz geral é a transparência e o acesso. Se você seguir essa linha e pensar sempre no ambiente virtual primeiro como seu ambiente de trabalho, as coisas vão tender a funcionar cada vez melhor.
+Porém, se surgir alguma situação que eu não mencionei aqui e você ficar na dúvida de como fazer aqui vão algumas perguntas para te guiar a descobrir se esse ambiente está equilibrado ou não para a pessoa em questão:
+
+Essa pessoa sabe o que está acontecendo?
+Ela tem tudo o que ela precisa para fazer o trabalho dela?
+Ela tem acesso às informações sobre o projeto ou tarefa dela?
+Ela tem contexto suficiente para contribuir em cima das ideias?
+
+E quais são as ferramentas a serem usadas? Essa é sempre uma das primeiras perguntas quando o assunto é trabalho remoto. Porém isso não é a primeira coisa que você deve pensar e nem é o mais importante.
+Primeiro, porque tem ferramentas novas saindo todos os dias então não vão faltar opções de ferramentas. Às vezes, na verdade, existem tantas ferramentas com funcionalidades parecidas que é até difícil escolher qual utilizar.
+Segundo, quanto mais ferramentas usamos, mais informações são espalhadas e mais difícil é encontrar algo. Precisamos de ferramentas que apoiem nosso trabalho e resolver o máximo de problemas com o mínimo de ferramentas possível.
+Terceiro, a ferramenta nada mais é que um meio para um fim. Então mais importante do que as ferramentas em si é o que você quer fazer com elas e como elas apoiam a execução do seu trabalho de forma remota.
+O que nós precisamos fazer como primeiro passo, é, na verdade, atualizar o nosso modelo mental. Lembra do Remote-First? Com isso conseguimos priorizar o ambiente virtual na hora de pensar os nossos processos e aí sim escolher ferramentas que se adequem e possibilitem a execução desses processos.
+Porque se tentarmos só utilizar as ferramentas sem pensar ou combinar nenhum processo por trás com nosso time a chance de não funcionar é muito grande. E aí podemos ficar com aquele pensamento de que o trabalho remoto não funciona ou que “Trabalho remoto não é para mim”. Sendo que não criamos uma chance de verdade para ele funcionar.
+Levando em consideração esses pontos, sempre que for escolher uma nova ferramenta para apoiar o seu trabalho pense sobre:
+
+O que você precisa fazer?
+Você precisa realmente de uma nova ferramenta ou consegue adaptar as que já usa para o que vai fazer?
+Como essa ferramenta se encaixar em outras ferramentas e processos já existentes?
+Quem vai utilizar ou quem precisa ter acesso?
+Você sozinho? Seu time? Todos na empresa?
+Com que frequência você vai utilizar essa ferramenta?
+Ela substitui alguma ferramenta que você já usa?
+Ela é fácil de utilizar e configurar? Se não, vale a pena gastar o seu tempo configurando?
+E, por último, quanto isso vai custar no seu orçamento? O benefício de economia de tempo que ela traz compensa esse custo?
+A conclusão para o nosso papo aqui é que ferramentas não são tudo, mas, não me entenda errado, elas são importantes sim. Elas possibilitam que o trabalho remoto aconteça. E, apesar de existirem ferramentas gratuitas, muitas vezes vale a pena investir em ferramentas que nos permitem ir mais longe. Então investir em ferramentas é importante, mas é só lembrar da ordem de prioridade:
+
+Primeiro invista nas pessoas;
+Depois na Cultura;
+Depois nos Processos;
+E só depois em ferramentas que permitem tudo isso acontecer.
+
+Agregadores de ferramentas que podem te ajudar a conhecer novas ferramentas e avaliar quais são as melhores para você e o seu time:
+Remote Starter Kit Um kit para começar uma equipe remota com essas ferramentas poderosas e testadas pela equipe Hanno. https://www.remotestarterkit.com/
+Remote Tools Ferramentas especificamente curadas para a comunidade de trabalho remoto Remote Tools - Discover top remote tech products
+The Productivity Stack do Hive Várias ferramentas categorizadas em grupos e focadas em aumentar a sua produtividade The Productivity Stack | Hive
+Remote Tools Rising Stars Artigo da Remote How sobre ferramentas que estão ganhando notoriedade em 2020 Remote Tools Rising Stars — Best Tools For Remote Workers To Watch In 2020 | Remote-how
+Por último a Versus, um site inteiramente dedicado a você achar alternativas a uma ferramenta que você tem em mente que tenha a mesma funcionalidade e propósito. Versus: Find alternatives
